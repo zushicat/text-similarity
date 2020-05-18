@@ -6,7 +6,7 @@ Use 2 methods to determine the similarity of 2 texts:
 
 
 In the data directory you'll find following text examples:
-- The source text: the first paragraph of the wikidata article about Henry VIII
+- The source text: the first paragraph of the wikipedia article about Henry VIII
   - wikipedia_expl_source.txt
 - Short target texts about the source paragraph with increasing modification
   - wikipedia_expl_target_strong.txt (almost copy&paste)
